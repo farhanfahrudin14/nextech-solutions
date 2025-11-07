@@ -27,8 +27,8 @@ export default function Navbar() {
         {/* Logo */}
         <Link href="/" className="flex items-center gap-2 md:gap-4 md:ml-15">
           <Image
-            src="/images/jasa.png"
-            alt="WebinAja Logo"
+            src="/images/logo.png"
+            alt="nexttech-solutions"
             width={120}
             height={120}
             className="object-contain hover:scale-110 transition-transform duration-300"
