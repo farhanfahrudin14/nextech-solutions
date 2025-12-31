@@ -43,7 +43,7 @@ Terima kasih.`;
     {
       icon: <FaEnvelope />,
       title: "Email",
-      value: "nextech@gmail.com",
+      value: "nextechsolutions.id@gmail.com",
       href: "mailto:halo@webinaja.com",
     },
     {
